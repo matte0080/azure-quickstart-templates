@@ -41,7 +41,7 @@
     },
     "vmSize": {
       "type": "string",
-      "defaultValue": "Standard_BS1",
+      "defaultValue": "Standard_B1s",
       "metadata": {
         "description": "Size of the virtual machine"
       }
